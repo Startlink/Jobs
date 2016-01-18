@@ -3,7 +3,7 @@
 ![Startlink](https://ucarecdn.com/ed3627ab-6294-4f2b-8aeb-f9fc1462133a/-/resize/200x/)
 
 
-코딩 교육을 하는 스타트업 [스타트링크](https://startlink.io)를 함께 만들어갈 팀원을 찾아요!
+코딩 교육을 하는 스타트업 [스타트링크](http://startlink.io)를 함께 만들어갈 팀원을 찾아요!
 
 스타트링크는 2015년 1월 12일에 생긴 회사로 이제 막 일년이 되었어요.
 
