@@ -8,7 +8,7 @@
 
 * [Baekjoon Online Judge](https://www.acmicpc.net): 아시아 최대 규모 온라인 저지, 대한민국 유일 대회 전문 플랫폼
 * [`./coding.sh`](http://coding.sh): 웹에서 코딩을!
-* [스타트링크 오프라인 강의](https://offline.startlink.help): @baekjoon과 함께 알고리즘 오프라인 강의를! 
+* [스타트링크 오프라인 강의](https://offline.startlink.help): 알고리즘 오프라인 강의!
 * 선데이 코딩: 온라인 프로그래밍 대회 (개발중)
 * 코드 플러스: 온라인 코딩 교육 서비스 (개발중)
 
