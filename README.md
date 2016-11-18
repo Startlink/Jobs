@@ -2,7 +2,7 @@
 
 ![Startlink](https://ucarecdn.com/ed3627ab-6294-4f2b-8aeb-f9fc1462133a/-/resize/300x/)
 
-코딩 교육 스타트업 스타트링크(Startlink)에서 함께 인턴을 구합니다.
+코딩 교육 스타트업 스타트링크(Startlink)에서 BOJ를 함께 만들어갈 인턴을 구합니다.
 
 ## 스타트링크의 서비스
 
