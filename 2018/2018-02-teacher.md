@@ -6,9 +6,9 @@
 
 ## 강사 자격
 
-* [Baekjoon Online Judge](https://www.acmicpc.net)에서 1000문제 이상 해결
-* [Codeforces](http://codeforces.com)에서 레이팅 1700 이상
-* [Topcoder](https://www.topcoder.com)에서 레이팅 1500 이상
+* [Baekjoon Online Judge](https://www.acmicpc.net) 1000문제 이상 해결
+* [Codeforces](http://codeforces.com) 레이팅 1700 이상
+* [Topcoder](https://www.topcoder.com)서 레이팅 1500 이상
 * [ACM-ICPC](https://icpc.baylor.edu/) 리저널 본선 20등 이상
 
 자격 중 하나만 만족하면 가능합니다.
